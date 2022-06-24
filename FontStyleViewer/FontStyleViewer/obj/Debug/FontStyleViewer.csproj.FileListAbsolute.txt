@@ -1,0 +1,44 @@
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\bin\Debug\FontStyleViewer.exe.config
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\bin\Debug\FontStyleViewer.exe
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\bin\Debug\FontStyleViewer.pdb
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.AssemblyReference.cache
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.SuggestedBindingRedirects.cache
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.Form1.resources
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.Properties.Resources.resources
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.GenerateResource.cache
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.CoreCompileInputs.cache
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.exe
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.pdb
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\bin\Debug\WinFormAnimation.dll
+D:\AGORA\FONT STYLE VIEWER\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.CopyComplete
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\FontStyleViewer.exe.config
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\FontStyleViewer.exe
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\FontStyleViewer.pdb
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.AssemblyReference.cache
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.SuggestedBindingRedirects.cache
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.Form1.resources
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.Properties.Resources.resources
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.GenerateResource.cache
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.CoreCompileInputs.cache
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.CopyComplete
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.exe
+D:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.pdb
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.SuggestedBindingRedirects.cache
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.Form1.resources
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.Properties.Resources.resources
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.GenerateResource.cache
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.CoreCompileInputs.cache
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.CopyComplete
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.csproj.AssemblyReference.cache
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\Font Style Viewer.exe.config
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\Font Style Viewer.exe
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\Font Style Viewer.pdb
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\Font Style Viewer.exe
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\Font Style Viewer.pdb
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\System.Reis.Beca.Class.dll
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.frmSplash.resources
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\System.RB.Tools.dll
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\System.RB.Tools.pdb
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\bin\Debug\System.RB.Tools.dll.config
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.frmAddFont.resources
+E:\AGORA\FONT STYLE VIEWER\C# PROJECT\FontStyleViewer\FontStyleViewer\obj\Debug\FontStyleViewer.frmUpdateFont.resources
