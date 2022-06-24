@@ -35,6 +35,8 @@ namespace FontStyleViewer
             c_Performance.ReleaseCapture();
             c_Performance.SendMessage(Handle, 0x112, 0xf012, 0);
         }
+        
+        //I try a commit in this code are to first test!
 
         private void timer1_Tick(object sender, EventArgs e)
         {
